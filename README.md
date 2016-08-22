@@ -1,5 +1,9 @@
 # CoDe Academy Aarhus 2016
 ## General stuff
+
+### WIFI Access
+Use WLAN called AUWLAN. When connection is established go to (http://wifi.au.dk) - push the Guest button and login with the username and password provided on the whiteboard (username is equal to password).
+
 ### Slack
 You can access the CoDe Academy slack here: [code-academy.slack.com](http://code-academy.slack.com)
 
