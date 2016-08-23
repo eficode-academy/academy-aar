@@ -24,6 +24,7 @@ You can access the CoDe Academy slack here: [code-academy.slack.com](http://code
 ### Slides
 * [TDD](https://github.com/Praqma/reveals) clone the repo, access the slides in tdd folder
 * TDD: [Link](http://mike.cyber-dojo.org/) Java practice session: 50A7AA C# practice session: CE05F6
+* Git: [Link](https://drive.google.com/file/d/0BxprChEvFFAYNHRVU1NHZWFaQnc/view)
 
 ## Wednesday
 ### Agenda
