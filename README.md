@@ -10,11 +10,9 @@ You can access the CoDe Academy slack here: [code-academy.slack.com](http://code
 ## Monday
 ### Agenda
 * 09.00 Registration and welcome
-* 09.30 The Continuous Delivery Storyline [Feedback Form](https://goo.gl/forms/aZjYWU6mVxb6VjdB2)
+* 09.30 The Continuous Delivery Storyline: [Slides](https://drive.google.com/file/d/0B4Dj4Xgq55kURTF2UzZlQVBUb1E/view?usp=sharing) | [Feedback Form](https://goo.gl/forms/aZjYWU6mVxb6VjdB2)
 * 12.00 Lunch
 * 13.00 Agile Task Management [Feedback Form](https://goo.gl/forms/4GmtXlrzuSUtssP23)
-
-### Slides
 
 
 ## Tuesday
