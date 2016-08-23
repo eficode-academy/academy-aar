@@ -15,6 +15,7 @@ You can access the CoDe Academy slack here: [code-academy.slack.com](http://code
 * 13.00 Agile Task Management [Feedback Form](https://goo.gl/forms/4GmtXlrzuSUtssP23)
 
 ### Slides
+* [TDD](https://github.com/Praqma/reveals) clone the repo, access the slides in tdd folder
 
 ## Tuesday
 ### Agenda
