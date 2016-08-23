@@ -17,7 +17,7 @@ You can access the CoDe Academy slack here: [code-academy.slack.com](http://code
 
 ## Tuesday
 ### Agenda
-* 09.00 Test Driven Development and Deliberate practice
+* 09.00 Test Driven Development and Deliberate practice [Feedback Form](https://goo.gl/forms/WHuvjoCxyZ8fYa932)
 * 12.00 Lunch
 * 13.00 Git Basics
 
