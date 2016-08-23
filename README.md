@@ -12,7 +12,7 @@ You can access the CoDe Academy slack here: [code-academy.slack.com](http://code
 * 09.00 Registration and welcome
 * 09.30 The Continuous Delivery Storyline: [Slides](https://drive.google.com/file/d/0B4Dj4Xgq55kURTF2UzZlQVBUb1E/view?usp=sharing) | [Feedback Form](https://goo.gl/forms/aZjYWU6mVxb6VjdB2)
 * 12.00 Lunch
-* 13.00 Agile Task Management [Feedback Form](https://goo.gl/forms/4GmtXlrzuSUtssP23)
+* 13.00 Agile Task Management v. LEGO [LEGO game rules](https://www.dropbox.com/s/r9y95zirwm630sp/Scrum%20Simulation%20with%20LEGO%20Bricks%20v2.0.pdf?dl=0) [Feedback Form](https://goo.gl/forms/4GmtXlrzuSUtssP23)
 
 
 ## Tuesday
