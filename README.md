@@ -19,7 +19,7 @@ You can access the CoDe Academy slack here: [code-academy.slack.com](http://code
 ### Agenda
 * 09.00 Test Driven Development and Deliberate practice [Feedback Form](https://goo.gl/forms/WHuvjoCxyZ8fYa932)
 * 12.00 Lunch
-* 13.00 Git Basics
+* 13.00 Git Basics [Feedback Form](https://goo.gl/forms/73zghO46q1aT1MVi2)
 
 ### Slides
 * [TDD](https://github.com/Praqma/reveals) clone the repo, access the slides in tdd folder
@@ -28,7 +28,7 @@ You can access the CoDe Academy slack here: [code-academy.slack.com](http://code
 
 ## Wednesday
 ### Agenda
-* 09.00 Advanced Git
+* 09.00 Advanced Git [Feedback Form](https://goo.gl/forms/U8gsJcb2jO1Z7ZCJ3)
 * 12.00 Lunch
 * 13.00 Docker
 
