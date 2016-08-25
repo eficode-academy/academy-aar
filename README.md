@@ -43,6 +43,8 @@ You can access the CoDe Academy slack here: [code-academy.slack.com](http://code
 
 ### Slides
 
+* [Danske Commodities](./codeacademy-DC.pdf)
+
 ## Friday
 ### Agenda
 * 9.00 Bringing it all together
