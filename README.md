@@ -33,7 +33,8 @@ You can access the CoDe Academy slack here: [code-academy.slack.com](http://code
 * 13.00 Docker [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSelArLsGHuuuHZEkEW0hzu_9Vzsv0RbfOtWm9f1bxBkrabkuw/viewform)
 
 ### Slides
-* Docker (Academy-Docker-101.pdf)
+* [Docker 101](./Academy-Docker-101.pdf)
+
 ## Thursday
 ### Agenda
 * 9.00 Jenkins Introduction
