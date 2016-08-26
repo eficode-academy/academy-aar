@@ -37,7 +37,7 @@ You can access the CoDe Academy slack here: [code-academy.slack.com](http://code
 
 ## Thursday
 ### Agenda
-* 9.00 Jenkins Introduction
+* 9.00 Jenkins Introduction [Slides](https://drive.google.com/file/d/0Bw4kZZDGIkNwSndMOFF4VXR6d2s/view?usp=sharing)
 * 12.00 Lunch with DC sponsor talk
 * 13.00 Jenkins as Code
 
